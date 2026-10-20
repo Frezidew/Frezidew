@@ -95,4 +95,4 @@ Flask-сервисы, async/aiohttp, multi-stage Docker, k3s, Helm-чарты, G
 
 ## 📬 Связаться со мной
 
-Открыт к интересным проектам и сотрудничеству. Пиши в [Telegram](https://t.me/Frezidew) 🚀
+Открыт к интересным проектам и сотрудничеству. Пиши в [Telegram](https://t.me/digit2l) 🚀
